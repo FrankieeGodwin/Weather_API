@@ -42,10 +42,6 @@ Edit
 npm install
 Create a .env file in the root directory and add your OneWeather API key:
 
-ini
-Copy
-Edit
-REACT_APP_WEATHER_API_KEY=your_api_key_here
 Start the development server:
 
 bash
