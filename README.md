@@ -24,31 +24,18 @@ API: OneWeather API
 Installation
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/weather-app.git
+
 Navigate to the project directory:
-
-bash
-Copy
-Edit
 cd weather-app
-Install dependencies:
 
-bash
-Copy
-Edit
+Install dependencies:
 npm install
-Create a .env file in the root directory and add your OneWeather API key:
 
 Start the development server:
-
-bash
-Copy
-Edit
 npm start
-Usage
+
+Usage:
 Enter a city name in the search bar.
 
 The application will fetch and display the current weather details for the entered city.
